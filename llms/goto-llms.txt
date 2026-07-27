@@ -1,0 +1,17 @@
+# GoTo
+
+> GoTo (PT GoTo Gojek Tokopedia Tbk, IDX: GOTO) is the largest technology group in Indonesia, formed in 2021 from the merger of Gojek and Tokopedia. It operates a super-app ecosystem across on-demand services, e-commerce, and financial technology (GoTo Financial / GoPay), serving Indonesia's 270M+ population. Developer surfaces are published per product rather than at a single group-level developer portal; this profile covers the parent holding company.
+
+## Company
+- [GoTo Group](https://www.gotocompany.com/en): Corporate website and group overview.
+- [About Us](https://www.gotocompany.com/en/about-us): History, mission, and business overview.
+- [Products](https://www.gotocompany.com/en/products): GoTo's on-demand, e-commerce, and fintech products.
+- [Newsroom](https://www.gotocompany.com/en/news/press): Press releases and company news.
+- [Investor Relations](https://www.gotocompany.com/en/investor-relations): Financial reports and IDX (GOTO) disclosures.
+- [Careers](https://www.gotocompany.com/en/careers): Open roles across the group.
+- [Sustainability](https://www.gotocompany.com/en/our-commitments/sustainability): ESG commitments and reporting.
+- [Contact Us](https://www.gotocompany.com/en/contact-us): Corporate contact channels.
+
+## Notes
+- Consumer-facing and merchant developer APIs are documented on the individual product surfaces (Gojek/GoBiz, Tokopedia, GoTo Financial/Midtrans), not at gotocompany.com.
+- Investor: SoftBank Vision Fund (portfolio company).
